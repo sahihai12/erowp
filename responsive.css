@@ -1,0 +1,8 @@
+@media (max-width:575px) {
+    .changefont {
+        font-size: 48px;
+    }
+    .changefont1{
+        font-size: 28px;
+    }
+}
